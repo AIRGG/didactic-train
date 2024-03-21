@@ -1,1 +1,0 @@
-import{_ as o}from"./DlAUqK2U.js";import{x as n,A as t,i as c,v as r}from"./_bYNnj5m.js";const s={};function a(_,m){const e=c("ContentDoc");return r(),n("main",null,[t(e)])}const p=o(s,[["render",a]]);export{p as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./DlAUqK2U.js";import{A as n,o as t,c,b as r}from"./CiBUApk_.js";const s={};function a(_,m){const o=n("ContentDoc");return t(),c("main",null,[r(o)])}const p=e(s,[["render",a]]);export{p as default};
